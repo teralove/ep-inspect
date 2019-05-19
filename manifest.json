@@ -1,0 +1,10 @@
+{
+  "files": {
+    "index.js": "e8dc49db5dead6a2706f06b1224d9c5c029c8386b06380d87fdc89bc31242d1f",
+    "module.json": "38f57d7ecf64bdf4e9a15dd7325c344fcf966c2525b5e9a973215ed65c68b6da",
+    "README.md": "beacd70a44bf018a4ac51b009534d3892cad3099bdaaa269026822d734b037c2"
+  },
+    "defs": {
+        "S_USER_PAPERDOLL_INFO": 8
+    }
+}
