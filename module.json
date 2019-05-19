@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "talent-inspect",
+    "author": "teralove",
+    "description": "Inspect players' Talent Level and XP.",
+    "version": "5/19/2019",
+    "options": {
+        "niceName": "Talent Inspect"  
+    },    
+
+    "servers": ["https://raw.githubusercontent.com/teralove/talent-inspect/master/"],
+    "supportUrl": "https://github.com/teralove/talent-inspect/issues/"
+}
