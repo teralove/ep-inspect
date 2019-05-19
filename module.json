@@ -1,13 +1,13 @@
 {
     "disableAutoUpdate": false,
-    "name": "talent-inspect",
+    "name": "ep-inspect",
     "author": "teralove",
-    "description": "Inspect players' Talent Level and XP.",
+    "description": "Inspect players' EP Level and EXP.",
     "version": "5/19/2019",
     "options": {
-        "niceName": "Talent Inspect"  
+        "niceName": "EP Inspect"  
     },    
 
-    "servers": ["https://raw.githubusercontent.com/teralove/talent-inspect/master/"],
-    "supportUrl": "https://github.com/teralove/talent-inspect/issues/"
+    "servers": ["https://raw.githubusercontent.com/teralove/ep-inspect/master/"],
+    "supportUrl": "https://github.com/teralove/ep-inspect/issues/"
 }

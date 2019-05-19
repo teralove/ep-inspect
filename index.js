@@ -1,6 +1,6 @@
 String.prototype.clr = function (hexColor) { return `<font color='#${hexColor}'>${this}</font>` };
 
-module.exports = function TalentInspect(mod) {
+module.exports = function EpInspect(mod) {
     mod.hook('S_USER_PAPERDOLL_INFO', 8, (event) => {
         let message = ('[' + event.name + ']').toString().clr('FDD017');
         message += ' LVL: ' + event.talentLevel.toString().clr('00FFFF');

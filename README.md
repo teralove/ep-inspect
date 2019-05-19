@@ -1,2 +1,2 @@
-# talent-inspect
-Inspect players' Talent Level and XP.
+# ep-inspect
+Inspect players' EP Level and EXP.
